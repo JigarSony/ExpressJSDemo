@@ -1,0 +1,17 @@
+{
+  "name": "ExpressJS",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "Jigar",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^2.0.2",
+    "express": "^4.17.1"
+  }
+}
